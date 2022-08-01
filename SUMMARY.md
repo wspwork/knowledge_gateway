@@ -1,7 +1,6 @@
 # Table of contents
 
-* [导航](README.md)
-* [作用](zuo-yong.md)
+* [作用](README.md)
 * [对比](dui-bi.md)
 
 ## Gateway
